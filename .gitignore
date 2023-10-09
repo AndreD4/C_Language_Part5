@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+StatementsAndOperators.workspace
+*.workspace
+StatementsAndOperators.workspace
+*.idx
+.codelite/StatementsAndOperators.workspace.andre
+AssignmentOperator/.clang-format
+AssignmentOperator/.clangd
+AssignmentOperator/AssignmentOperator.project
+compile_commands.json
+StatementsAndOperators.workspace
+.codelite/StatementsAndOperators-andre.tags
