@@ -41,3 +41,7 @@ AssignmentOperator/AssignmentOperator.project
 compile_commands.json
 StatementsAndOperators.workspace
 .codelite/StatementsAndOperators-andre.tags
+.codelite/StatementsAndOperators-andre.tags
+AssignmentOperator/AssignmentOperator.mk
+build-Debug/AssignmentOperator/ObjectsList.txt
+Makefile
