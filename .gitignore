@@ -52,3 +52,4 @@ ArithmeticOperators/ArithmeticOperators.mk
 ArithmeticOperators/ArithmeticOperators.project
 build-Debug/ArithmeticOperators/ObjectsList.txt
 StatementsAndOperators.workspace
+.codelite/StatementsAndOperators-andre.tags
