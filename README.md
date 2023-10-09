@@ -69,7 +69,26 @@ A statement is:
         if (a > b) cout << "a is greater than b";  // if;
   
 
+# Using Operators
+* C++ has a rich set of operators
 
+  - unary, binary, ternary
+
+* Common operators can be grouped as follow:
+
+  - assignment
+ 
+  - arithmetic
+ 
+  - increment/decrement
+ 
+  - relational
+ 
+  - logical
+ 
+  - member access
+ 
+  - other
 
 
 
