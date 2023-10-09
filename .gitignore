@@ -45,3 +45,10 @@ StatementsAndOperators.workspace
 AssignmentOperator/AssignmentOperator.mk
 build-Debug/AssignmentOperator/ObjectsList.txt
 Makefile
+.codelite/StatementsAndOperators-andre.tags
+ArithmeticOperators/.clang-format
+ArithmeticOperators/.clangd
+ArithmeticOperators/ArithmeticOperators.mk
+ArithmeticOperators/ArithmeticOperators.project
+build-Debug/ArithmeticOperators/ObjectsList.txt
+StatementsAndOperators.workspace
