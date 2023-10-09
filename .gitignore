@@ -53,3 +53,9 @@ ArithmeticOperators/ArithmeticOperators.project
 build-Debug/ArithmeticOperators/ObjectsList.txt
 StatementsAndOperators.workspace
 .codelite/StatementsAndOperators-andre.tags
+Euros/.clang-format
+Euros/.clangd
+Euros/Euros.project
+StatementsAndOperators.workspace
+StatementsAndOperators.workspace
+.codelite/StatementsAndOperators-andre.tags
