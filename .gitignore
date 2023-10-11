@@ -64,3 +64,9 @@ build-Debug/Euros/ObjectsList.txt
 .codelite/StatementsAndOperators-andre.tags
 .codelite/StatementsAndOperators-andre.tags
 .codelite/StatementsAndOperators.session
+.codelite/StatementsAndOperators-andre.tags
+MixedExpressions/.clang-format
+MixedExpressions/.clangd
+MixedExpressions/main.cpp
+*.project
+StatementsAndOperators.workspace
