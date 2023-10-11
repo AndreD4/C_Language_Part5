@@ -136,7 +136,7 @@ Conversions
             average = total_amount / total_number;
             cout << average << endl;                    // display 12
 
-            average = static_cast<double> (total_amount) total_number;
+            average = static_cast<double> (total_amount) / total_number;
             cout << average << endl;                  // display 12.5
 
 
