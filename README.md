@@ -140,6 +140,55 @@ Conversions
             cout << average << endl;                  // display 12.5
 
 
+# Testing for Equality
+* Compares the values of 2 expressions
+
+* Evaluates to a Boolean (True or False, 1 or 0)
+
+* Commonly used in control flow statements
+
+  - expr1 == expr2
+ 
+  - expr1 != expr2
+ 
+  - 100 == 200
+ 
+  - num1 != num2
+ 
+* The == and != operators
+
+               bool result {false};
+
+               result = (100 == 50+50);
+
+               result = (num1 != num2);
+
+               cout << (num1 == num2) << endl;   // 0 or 1
+               cout << std::boolalpha;
+               cout << (num1 == num2) << endl;   // true or fals
+               cout << std::noloopalpha;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
