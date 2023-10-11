@@ -54,3 +54,7 @@ MixedExpressions/.clang-format
 MixedExpressions/.clangd
 *.tags
 .codelite/StatementsAndOperators-andre.tags
+EqualityOperators/.clang-format
+EqualityOperators/.clangd
+StatementsAndOperators.workspace
+.codelite/StatementsAndOperators-andre.tags
