@@ -53,3 +53,4 @@ Makefile
 MixedExpressions/.clang-format
 MixedExpressions/.clangd
 *.tags
+.codelite/StatementsAndOperators-andre.tags
