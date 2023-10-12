@@ -22,12 +22,26 @@ int main()
 
     // Determine if an entered integer is outside two other integers
     // assume lower < upper
+//    cout << "\nEnter an integer - the bounds are " << lower << " and " << upper << " : ";
+//    cin >> num;
+//    
+//    bool outside_bounds {false};
+//    outside_bounds = (num < lower || num > upper);
+//    cout << num << " is outside " << lower << " and " << upper << " : " << outside_bounds << endl;
+    
+    // Determine if an integer is exactly on the boundary
+    // assume lower < upper
     cout << "\nEnter an integer - the bounds are " << lower << " and " << upper << " : ";
     cin >> num;
     
-    bool outside_bounds {false};
-    outside_bounds = (num < lower || num > upper);
-    cout << num << " is outside " << lower << " and " << upper << " : " << outside_bounds << endl;
+    bool on_bounds {false};
+    on_bounds = (num == lower || num == upper);
+    cout << num << " is on one of the bounds which are " << lower << " and " << upper << " : " << on_bounds << endl;
+    
+    
+    
+    
+    
     
     
     cout << endl;
