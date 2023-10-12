@@ -66,3 +66,8 @@ LogicalOperator/.clangd
 LogicalOperator/.clang-format
 StatementsAndOperators.workspace
 .codelite/StatementsAndOperators-andre.tags
+Challenge/.clang-format
+Challenge/.clangd
+StatementsAndOperators.workspace
+.codelite/StatementsAndOperators.session
+.codelite/StatementsAndOperators-andre.tags
