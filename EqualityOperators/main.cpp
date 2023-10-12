@@ -21,14 +21,14 @@ int main()
 //    cout << "Comparision result (not equal): "<<  not_equal_result << endl;
     
     
-    char char1{}, char2{};
-    cout << "Enter two integers seprarated by space: ";
-    cin >> char1 >> char2;
-    equal_result = (char1 == char2);
-    not_equal_result = (char1 != char2);
-    cout << "Comparision result (equal): " << equal_result << endl;
-    cout << "Comparision result (not equal): "<<  not_equal_result << endl;
-    
+//    char char1{}, char2{};
+//    cout << "Enter two integers seprarated by space: ";
+//    cin >> char1 >> char2;
+//    equal_result = (char1 == char2);
+//    not_equal_result = (char1 != char2);
+//    cout << "Comparision result (equal): " << equal_result << endl;
+//    cout << "Comparision result (not equal): "<<  not_equal_result << endl;
+   
     
     
     
