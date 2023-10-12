@@ -169,8 +169,16 @@ Conversions
                cout << std::noloopalpha;
 
 
+# Relational Operators
+* expr1 expr2
 
-
+        Operator                   Meaning
+          >                    greater  than
+          >=                   greater than or equal to
+          <                    less than
+          <=                   less than or equal to
+          <=>                  three- way comparison (c++20)
+   
 
 
 
