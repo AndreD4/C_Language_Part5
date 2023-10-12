@@ -12,16 +12,22 @@ int main()
     
     // Determine if an entered integer is bewteen two other intgers
     // assume lower < up
-    cout << "Enter and integer - the bonds are " << lower << " and " << upper << " : ";
+//    cout << "Enter and integer - the bounds are " << lower << " and " << upper << " : ";
+//    cin >> num;
+//    
+//    bool within_bonds {false};
+//    
+//    within_bonds = (num > lower && num < upper);
+//    cout << num << " is between " << lower << " and " << upper << " : " << within_bonds << endl;
+
+    // Determine if an entered integer is outside two other integers
+    // assume lower < upper
+    cout << "\nEnter an integer - the bounds are " << lower << " and " << upper << " : ";
     cin >> num;
     
-    bool within_bonds {false};
-    
-    within_bonds = (num > lower && num < upper);
-    cout << num << " is between " << lower << " and " << upper << " : " << within_bonds << endl;
-    
-    
-    
+    bool outside_bounds {false};
+    outside_bounds = (num < lower || num > upper);
+    cout << num << " is outside " << lower << " and " << upper << " : " << outside_bounds << endl;
     
     
     cout << endl;
