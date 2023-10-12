@@ -180,11 +180,43 @@ Conversions
           <=>                  three- way comparison (c++20)
    
 
+# Logical Operator
+
+        Operator                   Meaning
+        not                       negation
+         !                          
+
+         and                      logical and
+         &&
+
+         or                          logical or
+         ||   
+
+Precedence
+
+* not has higher precedence than and
+
+* and has higher precedence than or
+
+* not is unary operator
+
+* and and or are binary operators
+
+Example
+
+         num12 >= 10 && num1 < 20
+         num1 <= 10 || num1 >= 20
+
+         !is_raining && temperature > 32.0
+
+         is_raining || is_snowing
+
+         temprature > 100 && is_humid || is_raining
 
 
+Short_Circuit Evaluation
 
-
-
+* When evaluating a logical expression C++ stops as soon as the result is known
 
 
 
