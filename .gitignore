@@ -62,3 +62,6 @@ StatementsAndOperators.workspace
 RelationOperators/.clangd
 RelationOperators/.clang-format
 StatementsAndOperators.workspace
+LogicalOperator/.clangd
+LogicalOperator/.clang-format
+StatementsAndOperators.workspace
