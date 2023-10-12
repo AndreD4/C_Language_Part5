@@ -58,3 +58,7 @@ EqualityOperators/.clang-format
 EqualityOperators/.clangd
 StatementsAndOperators.workspace
 .codelite/StatementsAndOperators-andre.tags
+StatementsAndOperators.workspace
+RelationOperators/.clangd
+RelationOperators/.clang-format
+StatementsAndOperators.workspace
