@@ -218,8 +218,20 @@ Short_Circuit Evaluation
 
 * When evaluating a logical expression C++ stops as soon as the result is known
 
+# Compound Assignment Operators
 
+![Screenshot 2023-10-12 120831](https://github.com/AndreD4/C_Language_Part5/assets/46080715/6d7a8369-3370-4406-bc67-3cb3222a497d)
 
+Examples
+
+       lhs op= rhs; // lhs = lhs op (rhs);
+
+       a += 1;         // a = a + 1;
+       a /= 5;         // a = a / 5;
+       a *= b + c;     // a = a * (b + c);
+
+       cost += items * tax;
+                       // cost = cost + (items * tax);
 
 
 
