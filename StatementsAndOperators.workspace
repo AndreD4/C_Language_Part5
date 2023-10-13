@@ -8,7 +8,8 @@
   <Project Name="RelationOperators" Path="RelationOperators/RelationOperators.project" Active="No"/>
   <Project Name="LogicalOperator" Path="LogicalOperator/LogicalOperator.project" Active="No"/>
   <Project Name="Challenge" Path="Challenge/Challenge.project" Active="No"/>
-  <Project Name="ChallengeSolution" Path="ChallengeSolution/ChallengeSolution.project" Active="Yes"/>
+  <Project Name="ChallengeSolution" Path="ChallengeSolution/ChallengeSolution.project" Active="No"/>
+  <Project Name="IncrementDecrementOperator" Path="IncrementDecrementOperator/IncrementDecrementOperator.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -21,6 +22,7 @@
       <Project Name="LogicalOperator" ConfigName="Debug"/>
       <Project Name="Challenge" ConfigName="Debug"/>
       <Project Name="ChallengeSolution" ConfigName="Debug"/>
+      <Project Name="IncrementDecrementOperator" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -33,6 +35,7 @@
       <Project Name="LogicalOperator" ConfigName="Release"/>
       <Project Name="Challenge" ConfigName="Release"/>
       <Project Name="ChallengeSolution" ConfigName="Release"/>
+      <Project Name="IncrementDecrementOperator" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
